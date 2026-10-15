@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dylan%20Ramos&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,50:6b6b6b,100:9a9a9a&height=200&section=header&text=Dylan%20Ramos&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+useful+web+apps;Exploring+mobile+%26+AI-powered+tools;Clean+UI.+Reliable+code.+Real+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=Building+useful+web+apps;Exploring+mobile+%26+AI-powered+tools;Clean+UI.+Reliable+code.+Real+products." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.dylanramos.site"><img src="https://img.shields.io/badge/Portfolio-dylanramos.site-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.resuma.tech"><img src="https://img.shields.io/badge/Resuma-Live-22c55e?style=for-the-badge" /></a>
-<img src="https://komarev.com/ghpvc/?username=Dyl4nweb&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+<a href="https://www.dylanramos.site"><img src="https://img.shields.io/badge/Portfolio-dylanramos.site-36BCF7?style=flat&logo=googlechrome&logoColor=white" height="28" /></a>
+<a href="https://www.resuma.tech"><img src="https://img.shields.io/badge/resuma.tech-Developer-ef4444?style=flat" height="28" /></a>
+<img src="https://hits.sh/github.com/Dyl4nweb.svg?style=flat&label=Profile%20views&color=0e75b6" height="28" />
 
 </div>
 
@@ -58,6 +58,6 @@ I like learning new tech, solving problems, and turning ideas into apps people a
 
 **Interested in my work?** → [www.dylanramos.site](https://www.dylanramos.site)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:3a3a3a&height=100&section=footer" />
 
 </div>
