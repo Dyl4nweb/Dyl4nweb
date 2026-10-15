@@ -1,7 +1,7 @@
 <h1 align="left">Dylan Ramos</h1>
 
 <p align="left">
-  <strong>Software Developer · Full-Stack Web Developer · Mobile App Developer</strong>
+  <strong>Software Engineer · Full-Stack Developer </strong>
 </p>
 
 <p align="left">
