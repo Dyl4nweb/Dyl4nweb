@@ -48,9 +48,6 @@ I like learning new tech, solving problems, and turning ideas into apps people a
   <img src="https://streak-stats.demolab.com?user=Dyl4nweb&hide_border=true&theme=transparent" />
 </p>
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Dyl4nweb/Dyl4nweb/output/github-snake-dark.svg" alt="snake" />
 
 <div align="center">
 
