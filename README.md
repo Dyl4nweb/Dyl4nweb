@@ -16,13 +16,13 @@
 
 ---
 
-## 👋 About
+##  About
 
 I build practical web apps and explore mobile development and AI-powered tools, with a focus on clean, responsive interfaces, reliable integrations, and maintainable code.
 
 I like learning new tech, solving problems, and turning ideas into apps people actually use.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it is |
 |---|---|
@@ -31,13 +31,13 @@ I like learning new tech, solving problems, and turning ideas into apps people a
 | **[Varex AI](https://www.dylanramos.site)** | AI assistant exploring conversational AI and voice interaction |
 | **[More →](https://www.dylanramos.site)** | Full list on my portfolio |
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,postgres,prisma,supabase,git,github,canva" alt="Tech stack" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dyl4nweb&show_icons=true&hide_border=true&theme=transparent" />
