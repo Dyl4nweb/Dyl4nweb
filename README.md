@@ -10,7 +10,7 @@
 
 <a href="https://www.dylanramos.site"><img src="https://img.shields.io/badge/Portfolio-dylanramos.site-36BCF7?style=flat&logo=googlechrome&logoColor=white" height="28" /></a>
 <a href="https://www.resuma.tech"><img src="https://img.shields.io/badge/resuma.tech-Developer-ef4444?style=flat" height="28" /></a>
-<img src="https://hits.sh/github.com/Dyl4nweb.svg?style=flat&label=Profile%20views&color=0e75b6" height="28" />
+
 
 </div>
 
