@@ -57,7 +57,7 @@ I like learning new tech, solving problems, and turning ideas into apps people a
 
 <br/>
 
-**Interested in my work?** → [www.dylanramos.site](https://www.dylanramos.site)
+**Interested in my work?** → [www.dylanramos.site](https://dylanramos.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:3a3a3a&height=100&section=footer" alt="footer" />
 
