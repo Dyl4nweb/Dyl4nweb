@@ -1,4 +1,4 @@
-q
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,50:6b6b6b,100:9a9a9a&height=200&section=header&text=Dylan%20Ramos&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header" />
