@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://i.makeagif.com/media/8-26-2016/dAflAw.gif" width="320" alt="Tony Stark building the Mark I Iron Man suit" />
+<img src="https://i.makeagif.com/media/8-26-2016/dAflAw.gif" width="320" alt="Tony Stark building the Mark I Iron Man suitt" />
 
 <br/>
 <br/>
