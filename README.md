@@ -50,7 +50,7 @@ Software developer focused on full-stack applications, AI-powered tools, IT supp
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Dyl4nweb&hide_border=true&background=080808&ring=737373&fire=BDBDBD&currStreakLabel=E5E5E5&sideLabels=A3A3A3&dates=666666&currStreakNum=FFFFFF&sideNums=E5E5E5" alt="GitHub contribution streak" />
-t
+
 </div>
 
 ---
