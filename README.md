@@ -1,6 +1,6 @@
 
 <div align="center">
-
+d
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:101010,70:292929,100:484848&height=185&section=header&text=DYLAN%20RAMOS&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20%C2%B7%20SYSTEMS%20%C2%B7%20DESIGN&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Dylan Ramos" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=900&color=B0B0B0&center=true&vCenter=true&width=540&height=35&lines=Software+Developer;Full-Stack+Engineer;AI+Builder;Tech+Enthusiast;IT+Support;Graphic+Designer" alt="Professional roles" />
